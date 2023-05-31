@@ -1,4 +1,4 @@
-### Hi, i´m Mikaela 👋
+### Hei! Mitt navn er Mikaela👋
 
 ![image](https://github.com/Mikaelajoelsen/Mikaelajoelsen/assets/111288566/6cf2be50-d635-4158-b87d-3faa47a978f8)
 
