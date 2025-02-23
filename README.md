@@ -1,6 +1,8 @@
-### Hei! Mitt navn er Mikaela👋
+### Hi! My Name is Mikaela👋
 
 
-Jeg er en dedikert student som studerer frontend-utvikling ved Noroff Universitet. For øyeblikket fokuserer jeg på å forbedre mine ferdigheter innen HTML, CSS og JavaScript, som er de primære teknologiene jeg jobber med. Jeg har fullført ett år av studieprogrammet mitt, og jeg gleder meg til å fortsette min utdanningsreise i ett år til. I løpet av tiden min på Noroff har jeg opparbeidet meg verdifull kunnskap og praktisk erfaring med å skape engasjerende og visuelt tiltalende nettsteder. Jeg har lidenskap for webutvikling og streber etter å holde meg oppdatert med de nyeste bransjetrendene og beste praksisene. Hver dag vokser jeg som frontend-utvikler, og jeg er fast bestemt på å utmerke meg i dette feltet. Jeg ser frem til utfordringene og mulighetene som ligger foran meg, samtidig som jeg fortsetter å lære og utvikle mine ferdigheter innen frontend-utvikling.
+I am a Frontend developer with two years of experience. I studied at Noroff University in Oslo and I am ready for an exciting career in this field. I chose frontend development because it's exciting and different from what I used to do. I enjoy being creative and building websites and applications, and I also have a strong interest in technology. It’s fun to see my ideas take shape on the screen and to explore new ways to engage and inspire users.
+
+During my time at Noroff, I coded daily and completed tasks directly applicable to day-to-day work as a developer. I’ve developed strong skills in HTML, CSS, JavaScript, TypeScript, SQL, and more, all essential for a successful career in tech.
 
 
